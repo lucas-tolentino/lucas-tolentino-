@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/lucas0027.png" width="160" style="border-radius:50%; border: 3px solid #3670A0" />
+  <img src="https://avatars.githubusercontent.com/u/265619879?v=4" width="160" style="border-radius:50%; border: 3px solid #3670A0" alt="Lucas Tolentino" />
 </p>
 
 <h1 align="center">Lucas</h1>
