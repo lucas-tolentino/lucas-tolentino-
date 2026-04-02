@@ -1,51 +1,82 @@
-# Olá, eu sou o Lucas! 👋
+<p align="center">
+  <img src="https://github.com/lucas0027.png" width="160" style="border-radius:50%; border: 3px solid #3670A0" />
+</p>
 
-### 🚀 Aspirante a Profissional de TI | Estudante de Ciência da Computação
+<h1 align="center">Lucas</h1>
 
-Atualmente no **3º período de Ciência da Computação**, sou um entusiasta do desenvolvimento **Backend** e **Automação**. Meu foco está em criar soluções inteligentes que otimizam processos operacionais e transformam dados em decisões, utilizando o poder do Python e de ferramentas de automação de baixo código.
+<p align="center">
+  <strong>🚀 Backend Developer focado em automação de processos, APIs e Inteligência Artificial</strong><br>
+  Brasil
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-vinicius-3091932ba" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lucasvinicius027@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ No que venho trabalhando (Freelance Tech Consultancy)
+### 🧠 Sobre Mim
 
-Atuo no desenvolvimento de soluções personalizadas com foco em **BPA (Business Process Automation)**:
-
-*   **Automação de Processos:** Criação de fluxos de trabalho inteligentes para reduzir tarefas manuais.
-*   **Integrações de API & Webhooks:** Conectando diferentes ecossistemas de software de forma fluida.
-*   **ETL & Scraping:** Extração, tratamento e enriquecimento de dados para gerar valor real.
-*   **IA & Chatbots:** Desenvolvimento de bots de atendimento integrados com Inteligência Artificial.
-*   **Dashboards:** Visualização automática de métricas e indicadores.
+Sou estudante de Ciência da Computação (3º período) com foco total em desenvolvimento backend e automação de processos. Atuo como Freelancer em consultoria técnica, transformando fluxos manuais em sistemas inteligentes e escaláveis. Especialista em integrar APIs de IA e ferramentas de automação para aumentar a eficiência operacional e gerar valor através dos dados.
 
 ---
 
-### 💻 Tech Stack
+### 🛠️ Tecnologias & Ferramentas
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| **Automação** | ![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-%2343B02A?style=for-the-badge&logo=Selenium&logoColor=white) |
-| **Dados** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) |
-| **Ferramentas** | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| **Backend** | Python, Automação de Processos (BPA) |
+| **Dados** | Pandas, ETL, Extração e Tratamento de Dados, Scraping |
+| **Inteligência Artificial** | Integração de APIs de IA, Bots de Atendimento, AI Agents |
+| **Automação** | n8n, Z-API, Webhooks, Selenium, PyAutoGUI |
+| **Ferramentas** | Git, GitHub, VS Code, Linux, Miro, Google Sheets |
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🚀 Projetos em Destaque
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+#### 🌟 [WhatsApp-Automation-n8n](https://github.com/lucas0027)
+Agente de automação para WhatsApp integrado com Google Sheets.
+- **Stack:** n8n, Z-API, Python, JSON
+- **Resultado:** Automação total de respostas e gerenciamento de leads em tempo real.
+
+---
+
+#### 📈 [Freelance-Tech-Solutions](https://github.com/lucas0027)
+Conjunto de ferramentas para automação de negócios e enriquecimento de dados.
+- **Stack:** Python, Selenium, Webhooks, APIs
+- **Resultado:** Redução drástica de tarefas manuais e criação de dashboards automáticos.
 
 ---
 
-### 📫 Vamos nos conectar?
-
-Sempre aberto a colaborações em projetos de automação e backend!
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+#### 🤖 [AI-Integration-Bot](https://github.com/lucas0027)
+Desenvolvimento de bots inteligentes com fluxos de atendimento personalizados.
+- **Stack:** Python, IA, Integração de APIs
+- **Resultado:** Atendimento automatizado com linguagem natural e alta taxa de resolução.
 
 ---
-<p align="center">
-  <i>"Automatizando o presente para codificar o futuro."</i>
-</p>
+
+### 📊 Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucas0027&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 💼 Objetivo
+
+🚀 Em busca de estágio ou oportunidade como Desenvolvedor Backend / Suporte Técnico, com foco em automação, Python e inovação tecnológica.
+
+---
+
+<div align="center">
+  <blockquote>
+    <i>"Construir software é resolver problemas reais com eficiência."</i>
+  </blockquote>
+</div>
