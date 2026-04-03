@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Banner de Fundo (Floresta) -->
-  <img src="LINK_DA_IMAGEM_DA_FLORESTA" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;" />
+  <img src="file:///C:/Users/lucas/Desktop/parallax-animation-forest-mountains-background-footage-170788663_iconl.webp" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;" />
 </p>
 
 <p align="center">
