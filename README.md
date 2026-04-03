@@ -86,5 +86,5 @@ Sou estudante de Ciência da Computação (3º período) com foco total em desen
   </blockquote>
 </div>
 
-## 🐍 Jogo da Cobrinha
+## Commits
 ![Snake animation](https://raw.githubusercontent.com/lucas-tolentino/lucas-tolentino/output/github-snake-dark.svg)
