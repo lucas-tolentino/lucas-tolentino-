@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/header?type=waving&color=0D1117&height=200&section=header&text=Lucas%20Tolentino&fontSize=70&animation=fadeIn&fontColor=ffffff" width="100%" />
-</p>
-
+<
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/265619879?v=4" width="150" style="border-radius: 50%; border: 5px solid #0D1117; margin-top: -100px; position: relative;" alt="Lucas Tolentino" />
 </p>
