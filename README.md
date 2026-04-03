@@ -48,24 +48,21 @@ Sou estudante de Ciência da Computação (3º período) com foco total em desen
 
 ### 🚀 Projetos em Destaque
 
-#### 🌟 [WhatsApp-Automation-n8n](https://github.com/lucas0027)
-Agente de automação para WhatsApp integrado com Google Sheets.
-- **Stack:** n8n, Z-API, Python, JSON
-- **Resultado:** Automação total de respostas e gerenciamento de leads em tempo real.
+#### 📊 AutoAnalytica - Dashboard de BI
+> Ferramenta de inteligência de dados que identifica prejuízos e sugere ações de retenção.
+- **Tecnologias:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+- **Status:** ✅ Finalizado e Funcional.
+- [Acessar Repositório](https://github.com/lucas-tolentino/AutoAnalytica)
 
 ---
 
-#### 📈 [Freelance-Tech-Solutions](https://github.com/lucas0027)
-Conjunto de ferramentas para automação de negócios e enriquecimento de dados.
-- **Stack:** Python, Selenium, Webhooks, APIs
-- **Resultado:** Redução drástica de tarefas manuais e criação de dashboards automáticos.
+#### 💰 Finance-Analyzer
+> Script de automação para análise de movimentações financeiras.
+- **Tecnologias:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+- **Status:** 🛠️ Em desenvolvimento.
+- [Acessar Repositório](https://github.com/lucas-tolentino/Finance-Analyzer)
 
 ---
-
-#### 🤖 [AI-Integration-Bot](https://github.com/lucas0027)
-Desenvolvimento de bots inteligentes com fluxos de atendimento personalizados.
-- **Stack:** Python, IA, Integração de APIs
-- **Resultado:** Atendimento automatizado com linguagem natural e alta taxa de resolução.
 
 ---
 
