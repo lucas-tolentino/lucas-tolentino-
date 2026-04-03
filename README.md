@@ -85,3 +85,6 @@ Sou estudante de Ciência da Computação (3º período) com foco total em desen
     <i>"Construir software é resolver problemas reais com eficiência."</i>
   </blockquote>
 </div>
+
+## 🐍 Jogo da Cobrinha
+![Snake animation](https://raw.githubusercontent.com/lucas-tolentino/lucas-tolentino/output/github-snake-dark.svg)
