@@ -1,17 +1,15 @@
 <p align="center">
-  <!-- Banner da Floresta (O arquivo que você me passou) -->
-  <img src="https://raw.githubusercontent.com/lucas-tolentino/lucas-tolentino/main/parallax-animation-forest-mountains-background-footage-170788663_iconl.webp" width="100%" height="250px" style="object-fit: cover; border-radius: 15px;" alt="Banner Lucas Tolentino" />
+  <img src="https://raw.githubusercontent.com/lucas-tolentino/lucas-tolentino/main/parallax-animation-forest-mountains-background-footage-170788663_icon1.webp" width="100%" height="250px" style="object-fit: cover; border-radius: 15px;" alt="Banner Lucas Tolentino" />
 </p>
 
 <p align="center">
-  <!-- Sua Foto Centralizada e Sobreposta -->
-  <img src="https://avatars.githubusercontent.com/u/265619879?v=4" width="150" style="border-radius:50%; border: 5px solid #0D1117; margin-top: -100px; position: relative;" alt="Foto Lucas Tolentino" />
+  <img src="https://avatars.githubusercontent.com/u/265619879?v=4" width="150" style="border-radius: 50%; border: 5px solid #0D1117; margin-top: -100px; position: relative;" alt="Foto Lucas Tolentino" />
 </p>
 
 <h1 align="center">Lucas Tolentino</h1>
 
 <p align="center">
-  <strong>🚀 Backend Developer focado em automação de processos, APIs e Inteligência Artificial</strong><br>
+  <strong>🚀 Backend Developer focado em automação de processos, APIs e IA</strong><br>
   Brasil
 </p>
 
@@ -19,12 +17,15 @@
   <a href="https://www.linkedin.com/in/lucas-vinicius-3091322ba" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:lucasvinicius027@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+---
 
+---
 
 | Categoria | Tecnologias |
 | :--- | :--- |
