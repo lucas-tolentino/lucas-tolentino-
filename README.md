@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lucas-tolentino/lucas-tolentino/main/parallax-animation-forest-mountains-background-footage-170788663_icon1.webp" width="100%" height="250px" style="object-fit: cover; border-radius: 15px;" alt="Banner Lucas Tolentino" />
-  
+
 
 
 <p align="center">
