@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/lucas-tolentino/lucas-tolentino/main/parallax-animation-forest-mountains-background-footage-170788663_icon1.webp" width="100%" height="250px" style="object-fit: cover; border-radius: 15px;" alt="Banner Lucas Tolentino" />
-</p>
+  
+[https://raw.githubusercontent.com/lucas-tolentino/lucas-tolentino/main/parallax-animation-forest-mountains-background-footage-170788663_icon1.webp](https://raw.githubusercontent.com/lucas-tolentino/lucas-tolentino/main/parallax-animation-forest-mountains-background-footage-170788663_icon1.webp)
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/265619879?v=4" width="150" style="border-radius: 50%; border: 5px solid #0D1117; margin-top: -100px; position: relative;" alt="Foto Lucas Tolentino" />
