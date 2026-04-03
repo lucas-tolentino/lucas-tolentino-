@@ -28,14 +28,16 @@ Sou estudante de Ciência da Computação (3º período) com foco total em desen
 
 ### 🛠️ Tecnologias & Ferramentas
 
-
-### 🛠️ Tecnologias e Ferramentas:
+### 🛠️ Tecnologias & Ferramentas
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Backend** | Python, Automação de Processos (BPA) |
